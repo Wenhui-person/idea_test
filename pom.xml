@@ -11,7 +11,7 @@
     <properties>
         <mybatis.version>3.5.4</mybatis.version>
         <mysql.version>5.1.47</mysql.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <log4j.version>1.7.30</log4j.version>
         <druid.version>1.1.22</druid.version>
     </properties>
